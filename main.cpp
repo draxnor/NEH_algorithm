@@ -1,3 +1,7 @@
+// Autor: Paweł Mędyk
+// Algorytm NEH z akceleracją
+// Implementacja bazująca na literaturze
+// http://mariusz.makuchowski.staff.iiar.pwr.wroc.pl/download/courses/sterowanie.procesami.dyskretnymi/lab.instrukcje/lab03.neh/neh.literatura/metoda.wstawien.1.pdf
 #include <iostream>
 #include <fstream>
 #include <chrono>
